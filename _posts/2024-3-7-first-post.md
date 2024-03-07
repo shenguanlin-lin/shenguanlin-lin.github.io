@@ -11,8 +11,8 @@ categories: sample-posts
 
 content
 
-[pdf]({{ '/assets/json/table_data.json' | relative_url }})
+[pdf]({{ '/assets/pdf/example_pdf.pdf' | relative_url }})
 
 $$
-\nabla \cross \textbf{E}=-\dfrac{\partial B}{\partial t}
+\nabla \times \textbf{E}=-\dfrac{\partial B}{\partial t}
 $$
